@@ -9,20 +9,14 @@ This repository consists of the program files of my OS assignment done in the ac
 Steps
 <br>
 - Clone the repository:
-<br>
-<br>
 ```git clone https://github.com/rishabhm74/osAssignment.git```
 <br>
 <br>
 - Compile the first program with GCC installed:
-<br>
-<br>
 ```gcc part1Program.c -outputFilename -lpthread```
 <br>
 <br>
 - Run the output file:
-<br>
-<br>
 ```./outputFilename```
 <br>
 <br>
