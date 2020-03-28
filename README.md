@@ -6,7 +6,8 @@ This repository consists of the program files of my OS assignment done in the ac
 - GCC compiler must be installed on the user's device.
 
 # How to run
-
+Steps
+<br>
 - Clone the repository:
 <br>
 <br>
