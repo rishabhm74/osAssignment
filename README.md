@@ -10,13 +10,7 @@ Steps
 <br>
 - Clone the repository:
 ```git clone https://github.com/rishabhm74/osAssignment.git```
-<br>
-<br>
 - Compile the first program with GCC installed:
 ```gcc part1Program.c -outputFilename -lpthread```
-<br>
-<br>
 - Run the output file:
 ```./outputFilename```
-<br>
-<br>
