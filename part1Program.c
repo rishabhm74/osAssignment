@@ -105,6 +105,6 @@ int main(){
 
     printf("\n");
     for(int i =0;i<6;i++){
-        printf("Exitting from the program...\n");
+        printf("Exiting from the program...\n");
     }
 }
