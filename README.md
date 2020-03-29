@@ -23,8 +23,8 @@ Steps
 # Constraints
 <b>Program 1</b>
 <br>
-- 1. By default, student 1 has Pen, student 2 has Paper and Student 3 has Question Paper.
-- 2. Last row of the array specifies whether the student has completed the assignment or not.
+- By default, student 1 has Pen, student 2 has Paper and Student 3 has Question Paper.
+- Last row of the array specifies whether the student has completed the assignment or not.
 <br>
 
 <b>Program 2</b>
