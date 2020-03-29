@@ -12,5 +12,9 @@ Steps
 ```git clone https://github.com/rishabhm74/osAssignment.git```
 - Compile the first program with GCC installed:
 ```gcc part1Program.c -outputFilename -lpthread```
-- Run the output file:
+- Compile the second program with GCC installed:
+```gcc part2Program.c -outputFilename2```
+- Run the output file of program 1:
 ```./outputFilename```
+- Run the output file of program 2:
+```./outputFilename2```
