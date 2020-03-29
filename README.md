@@ -27,6 +27,7 @@ Steps
 - Last row of the array specifies whether the student has completed the assignment or not.
 <br>
 <b>Program 2</b>
+<br>
 - Each number represents a person, all the number below or equal to 5 are students, and more than 5 are teachers.
 - By default, the maximum length of each queue as 5.
 - Ready queue represents the order in which the request will be processed.
